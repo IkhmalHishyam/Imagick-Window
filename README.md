@@ -34,4 +34,4 @@ extension=php_imagick.dll
 
 - Restart your local server Apache/NGINX.
 
-Credit : mlocati[https://github.com/mlocati?tab=overview&from=2022-02-01&to=2022-02-26]
+Credit : [mlocati](https://github.com/mlocati?tab=overview&from=2022-02-01&to=2022-02-26)
