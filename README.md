@@ -1,7 +1,7 @@
 # Imagick-Window
 Install Imagick extension on PHP for Window
 
-###Check PHP Version
+###Check PHP Version###
 
 Determine the PHP version
 
@@ -21,6 +21,6 @@ php -i|find "Architecture"
 
 Download Imagick Extension from here - https://mlocati.github.io/articles/php-windows-imagick.html
 
-###Manage Download File
+###Manage Download File###
 
 
